@@ -1,0 +1,1 @@
+export ASE_ESPRESSO_COMMAND="${PREFIX}/pw.x -in PREFIX.pwi > PREFIX.pwo"
