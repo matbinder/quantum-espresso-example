@@ -4,3 +4,4 @@ dependencies:
 - python
 - ase
 - qe
+- pwtools
